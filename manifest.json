@@ -1,0 +1,20 @@
+{
+  "name": "AMS Blockchain Week",
+  "short_name": "AMSBlockchainWeek",
+  "icons": [
+    {
+      "src": "/ams-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ams-logo-512.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#70d0e2"
+}
